@@ -1,5 +1,6 @@
 # rms-weekly-labs
 
+<!-- New to GitHub? Follow https://github.com/rms-careers/program-handbook/blob/main/start-here/README.md -->
 <!-- Replace the lines below with your own details, then delete this comment. -->
 **Name:** Your Name · **Target role:** e.g. Full Stack Developer · **Backup role:** e.g. Data Analyst
 **GitHub:** https://github.com/your-username · **LinkedIn:** (added in Week 11)
