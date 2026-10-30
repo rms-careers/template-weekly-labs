@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Node (some weeks use it)
+node_modules/
+
+# Secrets: never commit these. Commit .env.example instead.
+.env
+.env.*
+!.env.example
+
+# Databases and large generated data
+*.sqlite3
+*.db
+*.dump
+
+# Editors and operating systems
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
